@@ -24,5 +24,4 @@ This tutorial explains K-means clustering, including preprocessing, model implem
 
 ## Author
 Bilal Ahmad Cheema  
-Student ID: 24160235  
-Module: Machine Learning and Neural Networks
+Email: cbilalahmad48@gmail.com
